@@ -1,0 +1,32 @@
+div {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+body {
+	background: black;
+}
+
+button {
+	padding: 100px;
+	color: white;
+	background: rgb(55, 18, 87);
+	font-size: 80px;
+	cursor: pointer;
+	border-radius: 5%;
+	outline: none;
+	border: 0px;
+}
+p {
+	padding: 100px;
+	color: white;
+	background: rgb(59, 28, 74);
+	font-size: 75px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	border-radius: 5%;
+}
